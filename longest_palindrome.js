@@ -12,3 +12,6 @@ Example:
   "zzbaabcd" -> 4
   "" -> 0
 */
+
+
+// Solution
