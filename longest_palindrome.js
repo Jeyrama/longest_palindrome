@@ -25,3 +25,5 @@ let longestPalindrome = function(s) {
     }
   }
 }
+
+// or
